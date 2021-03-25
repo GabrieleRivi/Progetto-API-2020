@@ -9,6 +9,7 @@ _Esempio comandi:_
 * (ind1,ind2)p: Stampa le righe tra ind1 ed ind2, inclusi;
 * (numero)u: Effettua l’annullamento (undo) di un numero di comandi (c o d) pari a quello specificato tra parentesi tonde;
 * (numero)r: Annulla l’effetto di undo per un numero di comandi pari a numero a partire dalla versione corrente (funzione di redo);
+* q: Segnale di terminazione del programma;
 
 
 ## Esempio 
